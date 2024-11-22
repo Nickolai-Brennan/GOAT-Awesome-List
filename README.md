@@ -25,7 +25,7 @@ A curated list of the most influential thinkers, writers, intellectuals, and art
 
 ---
 
-## List of Influential Figures
+## ⭐ Master Minds 
 
 | **Name**                  | **Works and Books**                                         | **Mood**            | **Flag** | **Crisis Scale** | **Impact Score** | **Genius of Trade** |
 |---------------------------|------------------------------------------------------------|---------------------|----------|------------------|------------------|---------------------|
