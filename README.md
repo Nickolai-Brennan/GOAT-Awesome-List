@@ -1,7 +1,4 @@
-# OmniMinds-
-
-# OmniMinds 🌟
-
+# GREAT MINDS THROUGH TIME 
 A curated list of the most influential thinkers, writers, intellectuals, and artists who have shaped human thought and culture. This repository celebrates their contributions, categorized by works, years, and creators, with summaries and scoring metrics.
 
 ---
@@ -25,17 +22,19 @@ A curated list of the most influential thinkers, writers, intellectuals, and art
 
 ---
 
-## ⭐ Master Minds 
+## List of Influential Figures
 
-| **Name**                  | **Works and Books**                                         | **Mood**            | **Flag** | **Crisis Scale** | **Impact Score** | **Genius of Trade** |
-|---------------------------|------------------------------------------------------------|---------------------|----------|------------------|------------------|---------------------|
-| **Charles Bukowski**      | *Post Office*, *Factotum*, *Ham on Rye*                    | Despair (Cynicism)  | 🇺🇸       | 9                | 78               | 8                   |
-| **Fyodor Dostoevsky**     | *Crime and Punishment*, *The Brothers Karamazov*          | Despair to Enlightened | 🇷🇺   | 10               | 95               | 9                   |
-| **Friedrich Nietzsche**   | *Thus Spoke Zarathustra*, *Beyond Good and Evil*          | Despair to Empowering | 🇩🇪    | 9                | 94               | 9                   |
-| **Albert Camus**          | *The Stranger*, *The Myth of Sisyphus*, *The Plague*      | Crisis to Enlightenment | 🇫🇷  | 8                | 90               | 8                   |
-| **Emily Dickinson**       | *Because I Could Not Stop for Death*, *I’m Nobody!*       | Despair to Hopeful  | 🇺🇸       | 6                | 88               | 9                   |
-| **Oliver Sacks**          | *The Man Who Mistook His Wife for a Hat*, *Awakenings*    | Introspective       | 🇬🇧       | 7                | 85               | 9                   |
-| **Carl Jung**             | *Man and His Symbols*, *The Archetypes and the Collective Unconscious* | Enlightened | 🇨🇭 | 9 | 92 | 10 |
+| **Name**                  | **Time Period** | **Works and Books**                                         | **Mood**            | **Flag** | **Crisis Scale** | **Impact Score** | **Genius of Trade** |
+|---------------------------|-----------------|------------------------------------------------------------|---------------------|----------|------------------|------------------|---------------------|
+| **Charles Bukowski**      | 1920–1994       | *Post Office*, *Factotum*, *Ham on Rye*                    | Despair (Cynicism)  | 🇺🇸       | 9                | 78               | 8                   |
+| **Fyodor Dostoevsky**     | 1821–1881       | *Crime and Punishment*, *The Brothers Karamazov*          | Despair to Enlightened | 🇷🇺   | 10               | 95               | 9                   |
+| **Friedrich Nietzsche**   | 1844–1900       | *Thus Spoke Zarathustra*, *Beyond Good and Evil*          | Despair to Empowering | 🇩🇪    | 9                | 94               | 9                   |
+| **Albert Camus**          | 1913–1960       | *The Stranger*, *The Myth of Sisyphus*, *The Plague*      | Crisis to Enlightenment | 🇫🇷  | 8                | 90               | 8                   |
+| **Emily Dickinson**       | 1830–1886       | *Because I Could Not Stop for Death*, *I’m Nobody!*       | Despair to Hopeful  | 🇺🇸       | 6                | 88               | 9                   |
+| **Oliver Sacks**          | 1933–2015       | *The Man Who Mistook His Wife for a Hat*, *Awakenings*    | Introspective       | 🇬🇧       | 7                | 85               | 9                   |
+| **Carl Jung**             | 1875–1961       | *Man and His Symbols*, *The Archetypes and the Collective Unconscious* | Enlightened | 🇨🇭 | 9 | 92 | 10 |
+| **Hunter S. Thompson**    | 1937–2005       | *Fear and Loathing in Las Vegas*, *The Rum Diary*         | Chaotic Enlightenment | 🇺🇸      | 8                | 86               | 8                   |
+| **Kim Addonizio**         | 1954–Present    | *Tell Me*, *Ordinary Genius*                              | Passionate          | 🇺🇸       | 5                | 80               | 9                   |
 
 ---
 
@@ -59,6 +58,10 @@ A curated list of the most influential thinkers, writers, intellectuals, and art
 | *Awakenings*                               | 1973     | Oliver Sacks              | 🌌 Psychology     |
 | *Man and His Symbols*                      | 1964     | Carl Jung                 | 🌌 Psychology     |
 | *The Archetypes and the Collective Unconscious* | 1959 | Carl Jung                 | 🌌 Psychology     |
+| *Fear and Loathing in Las Vegas*           | 1971     | Hunter S. Thompson        | ✍️ Literature     |
+| *The Rum Diary*                            | 1998     | Hunter S. Thompson        | ✍️ Literature     |
+| *Tell Me*                                  | 2000     | Kim Addonizio             | ✍️ Literature     |
+| *Ordinary Genius*                          | 2009     | Kim Addonizio             | ✍️ Literature     |
 
 ---
 
@@ -70,7 +73,9 @@ A curated list of the most influential thinkers, writers, intellectuals, and art
 - **Albert Camus:** Absurdist thinker confronting life's meaninglessness.  
 - **Emily Dickinson:** The enigmatic poet exploring death, immortality, and introspection.  
 - **Oliver Sacks:** A neurologist who humanized the mysteries of the brain.  
-- **Carl Jung:** The pioneer of analytical psychology, introducing the collective unconscious and archetypes.
+- **Carl Jung:** The pioneer of analytical psychology, introducing the collective unconscious and archetypes.  
+- **Hunter S. Thompson:** A gonzo journalist blurring the line between fact and fiction in chaotic narratives.  
+- **Kim Addonizio:** A poet who crafts vivid and emotionally rich works, celebrating the human condition.
 
 ---
 
