@@ -1,4 +1,4 @@
-# GREAT MINDS THROUGH TIME 
+# THE GOATS 🐐 GREATEST OF ALL THINKERS 
 A curated list of the most influential thinkers, writers, intellectuals, and artists who have shaped human thought and culture. This repository celebrates their contributions, categorized by works, years, and creators, with summaries and scoring metrics.
 
 ---
