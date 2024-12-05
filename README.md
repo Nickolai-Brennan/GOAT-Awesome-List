@@ -24,7 +24,7 @@ A curated list of the most influential thinkers, writers, intellectuals, and art
 
 ## List of Influential Figures
 
-| **Name**                  | **Time Period** | **Works and Books**                                         | **Mood**            | **Flag** | **Crisis Scale** | **Impact Score** | **Genius of Trade** |
+| **Name** | **Time Period** | **Works and Books**                                         | **Mood**            | **Flag** | **Crisis Scale** | **Impact Score** | **Genius of Trade** |
 |---------------------------|-----------------|------------------------------------------------------------|---------------------|----------|------------------|------------------|---------------------|
 | **Charles Bukowski**      | 1920–1994       | *Post Office*, *Factotum*, *Ham on Rye*                    | Despair (Cynicism)  | 🇺🇸       | 9                | 78               | 8                   |
 | **Fyodor Dostoevsky**     | 1821–1881       | *Crime and Punishment*, *The Brothers Karamazov*          | Despair to Enlightened | 🇷🇺   | 10               | 95               | 9                   |
